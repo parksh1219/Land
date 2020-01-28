@@ -15,3 +15,4 @@ earth_date : _D003_20191218.csv
 urban_file : .\ucode\urban.txt
 ucode_file : .\ucode\Z_LURIS_LART_LMISZONE.csv
 dong_file : .\dong\202001\법정동코드 전체자료.txt
+추가된 메시지 입니다.
