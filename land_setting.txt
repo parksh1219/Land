@@ -1,6 +1,7 @@
 main_test : main
 df_old_file : .\landuse_out\land_20200123_1909_o.xlsx
 start_zone : 1000
+github test~~
 stop_zone : 4571
 gong_file : ..\auction\a_u_out\경공매_20200126_0443.xlsx
 gong_file1 : .\gong_file\경공매_20200112_1957.csv
@@ -11,8 +12,3 @@ landuse_xlsx_last : _o.xlsx
 landuse_str : .\landuse\202001\ABPD_LAND_USE_STS_
 landuse_date : _202001.txt
 earth_str : .\earth\201912\AL_
-earth_date : _D003_20191218.csv
-urban_file : .\ucode\urban.txt
-ucode_file : .\ucode\Z_LURIS_LART_LMISZONE.csv
-dong_file : .\dong\202001\법정동코드 전체자료.txt
-추가된 메시지 입니다.
